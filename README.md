@@ -1,3 +1,19 @@
-# spring-vue
-spring boot+vue+mybatis 的增删改查
-由于本人是后端开发，前端使用不熟练，页面有点难看请见谅
+# vuedemo1
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
